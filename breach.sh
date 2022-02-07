@@ -9,7 +9,7 @@ else
     :
 fi
 
-emails=`cat $1`
+emails=$(cat $1)
 
 for i in $emails ; do
 sleep 2 ; if [[ -z $(curl -s "https://haveibeenpwned.com/unifiedsearch/$i" -H $'User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0' -H $'Accept: */*' -H $'Accept-Language: en-#US,en;q=0.5' | grep -i "pwned" | jq) ]]; then : ; else echo -e "\e[31m[Breached]: \e[32m$i" | tee -a breached_mails.txt; 
