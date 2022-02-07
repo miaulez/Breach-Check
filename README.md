@@ -1,5 +1,5 @@
-# Breach-Check
-Take a list of emails and check if they've been in data breaches before.
+# Breach Check
+**Take a list of emails and check if they've been in data breaches before.**
 
 
 A simple script I made to take a list of emails and check if they've been in data breaches before whilst not having to pay for a "HaveIBeenPwned" api.
