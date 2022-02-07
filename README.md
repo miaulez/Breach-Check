@@ -7,4 +7,5 @@ Useful for companies / organizations to check if their emails have been in data 
 
 Useful for Penetration Testers / Security Researchers when they've got a limited api (like breachdirectory.org) and don't want to waste credits on emails that haven't been implicated in data breaches.
 
-![https://i.imgur.com/KwKpEZ2.png]
+
+![image](https://user-images.githubusercontent.com/59520244/152710555-9310a3cc-5800-46a9-bb11-90d39d4a2a96.png)
