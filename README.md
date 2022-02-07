@@ -6,3 +6,5 @@ A simple script I made to take a list of emails and check if they've been in dat
 Useful for companies / organizations to check if their emails have been in data breaches and if so, they should change the passwords, especially if there's password reuse all over the place. 
 
 Useful for Penetration Testers / Security Researchers when they've got a limited api (like breachdirectory.org) and don't want to waste credits on emails that haven't been implicated in data breaches.
+
+![https://i.imgur.com/KwKpEZ2.png]
